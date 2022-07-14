@@ -1,5 +1,4 @@
 const path = require("path");
-import uikit from 'uikit'
 
 export default async function () {
   const { nuxt } = this
