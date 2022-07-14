@@ -71,7 +71,7 @@ More information about the usage of this directory in [the documentation](https:
 ## References
 
 ### Images
-Nuxt.js Logo: https://nuxtjs.org
+Nuxt.js Logo: https://nuxtjs.org  
 UIkit Logo: https://seeklogo.com/vector-logo/274047/uikit
 
 ### Credits
